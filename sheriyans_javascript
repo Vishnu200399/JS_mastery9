@@ -1,0 +1,28 @@
+1.word vs keyword(chahcha vs for,while)
+2.var let const(variables=one's which change,constant=doesn't change)
+--the difference(js--es5(var),es6(let,const),but we use both es5 and es6)
+(var-var function scoped hota hai-we can use it in the whole function
+ex:function naughty(){
+         for(vari;i<=10;i++){
+            console.log(i);
+     }
+       console.log(i);
+   }    
+o/p:12345678910
+(let braces scope hota hai)
+o/p:123456789
+NOTE:js mein kai saare features hai par kuchh features jo
+ hum use karte hai WO features WO nahi hai par fir bhi
+ use kar paate hai kyoki WO features js langauge use kar
+ leti hai window se, aur window hai ek box of features
+given by browser to use with js
+
+var-adds itself to the wondow object
+let,const-doesn't add
+3.hoisting(variables and functions are hoisted which means their declaration is moved on the top of code(undefined and not defined))
+4.types in js
+4.Primitive(number,string,null,undefined,boolean) and reference([],{},())
+5.conditionals - if else else-if
+6.loop-for while
+7.functions(for 3 reasons)-i)to reuse
+                           ii)
