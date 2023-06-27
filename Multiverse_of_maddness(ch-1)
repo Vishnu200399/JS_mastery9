@@ -1,0 +1,7 @@
+Keyword vs word
+--compiler(this is where the code is checked totally and find out the errors,
+compiles into machine code,converts slow,runs fast) 
+vs interpeter(converts into byte code,
+converts quickly,runs slow )
+JIT compiler(Just in time)--this is where the byte code in the (interpeter) is   converted into machine code (in compiler) using "inspector"
+example:JIT compiler is used in "google chrome"
